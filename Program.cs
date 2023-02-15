@@ -277,6 +277,12 @@ static string huoquhuabingshuju(string id)
         //Console.WriteLine("收到消息是" + shuju2);
         //Console.WriteLine("收到消息是" + shuju2); //Console.WriteLine("收到消息是" + shuju2);
         //shuju2 = tihuan(renwu);
+        //Console.WriteLine("收到消息是" + shuju2);
+        //Console.WriteLine("收到消息是" + shuju2);
+        //Console.WriteLine("收到消息是" + shuju2);
+        //Console.WriteLine("收到消息是" + shuju2);
+        //Console.WriteLine("收到消息是" + shuju2);
+
         //Console.WriteLine("tihuan(renwu)" + shuju2);
         //shuju2 = renwushixian;
         //Console.WriteLine("renwushixian" + shuju2);
